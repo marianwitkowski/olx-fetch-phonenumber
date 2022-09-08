@@ -1,4 +1,4 @@
-# Pobieranie numer telefonu z ogłoszenia na OLX.pl 
+# Pobieranie numeru telefonu z ogłoszenia na OLX.pl 
 
 1. Zainstaluj niezbędne biblioteki komendą ``pip install -r requirements.txt``
 2. Otwórzy żądaną stronę na <a href='https://olx.pl/' target=_blank>OLX.pl</a> i zaloguj się
