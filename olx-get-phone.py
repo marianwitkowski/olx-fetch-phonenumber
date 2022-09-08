@@ -181,7 +181,7 @@ def get_phone_from_offer(user_id, offer_id, access_token):
 
 ########### MAIN ROUTINE ###########
 har = None
-with open("www.olx.pl.har", "rt") as fd: har = json.load(fd)
+with open(sys.argv[1], "rt") as fd: har = json.load(fd)
 if not har: sys.exit(1)
 
 ACCESS_TOKEN, USER_ID, OFFER_ID, user_cookies = find_access_token(har)
