@@ -1,1 +1,1 @@
-# Pobieranie kontaktu do sprzedającego (numer telefonu) ogłoszeń w OLX.pl 
+# Pobieranie numer telefonu z ogłoszenia na OLX.pl 
