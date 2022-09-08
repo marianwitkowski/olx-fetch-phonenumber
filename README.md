@@ -8,4 +8,4 @@
 
 <img src='screenshot.png' width=800 border=0 />
 
-6. Zapisany plik podaj jako parametr do wywołania skryptu <a href='olx-get-phone.py'>olx-get-phone.py</a> - ``python3 olx-get-phone.py plik.har``
+6. Zapisany plik podaj jako parametr do wywołania skryptu <a href='olx-get-phone.py'>olx-get-phone.py</a> - ``python3 olx-get-phone.py www.olx.pl.har``
